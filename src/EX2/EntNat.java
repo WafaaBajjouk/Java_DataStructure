@@ -55,7 +55,6 @@ public class EntNat {
 
   		return p;	
   		
-  			
   	}
 
 
